@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Oluwademilade Sodimu
-- 👀 I'm currently studying computer Science 
--I'm interested in programming, calculations.
+- 👀 I'm a Sofware Developer
+-I'm interested in problem solving, and I love programming
 - 📫 You can reach me at demisodimu@gmail.com 
 
 
