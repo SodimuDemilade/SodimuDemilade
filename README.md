@@ -1,6 +1,5 @@
 - 👋 Hi, I'm Oluwademilade Sodimu
-- 👀 I'm a Sofware Developer
--I'm interested in problem solving, and I love programming
+- 👀 Software Engineer focused on building scalable web applications with React, TypeScript, Node.js, Java, and AWS.
 - 📫 You can reach me at demisodimu@gmail.com 
 
 
